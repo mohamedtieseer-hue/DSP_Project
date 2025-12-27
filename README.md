@@ -1,4 +1,4 @@
-# DSP End-to-End Project
+## DSP End-to-End Project
 
 A comprehensive Python Digital Signal Processing project demonstrating FDM (Frequency Division Multiplexing), Audio Filtering, and Modulation/Demodulation within a Streamlit GUI.
 
