@@ -17,7 +17,10 @@ A comprehensive Python Digital Signal Processing project demonstrating FDM (Freq
    - Please place two valid `.wav` files (e.g., `Andrea_Bocelli_Besame_Mucho.wav`, `Zinda_Banda_Jawan.wav`) in the project root directory before running.
    - Or update `app.py` variables `FILE_1` and `FILE_2` to match your own wav files.
 
-## Installation
+## Quick Start (Windows)
+Double-click `run_app.bat` to automatically install requirements and launch the app in your browser.
+
+## Manual Installation
 
 1. Install dependencies:
    ```bash
