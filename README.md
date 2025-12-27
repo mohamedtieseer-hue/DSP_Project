@@ -10,6 +10,13 @@ A comprehensive Python Digital Signal Processing project demonstrating FDM (Freq
 - `report.md`: Detailed DSP design report.
 - `Andrea_Bocelli_Besame_Mucho.wav` / `Zinda_Banda_Jawan.wav`: Input files.
 
+## Prerequisites
+
+1. **Python 3.8+** installed.
+2. **Audio Files**: Since audio files are large, they are **not** included in this repository.
+   - Please place two valid `.wav` files (e.g., `Andrea_Bocelli_Besame_Mucho.wav`, `Zinda_Banda_Jawan.wav`) in the project root directory before running.
+   - Or update `app.py` variables `FILE_1` and `FILE_2` to match your own wav files.
+
 ## Installation
 
 1. Install dependencies:
